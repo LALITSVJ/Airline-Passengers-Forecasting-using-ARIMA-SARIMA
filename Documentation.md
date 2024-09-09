@@ -1,5 +1,3 @@
-# Project Title: Airline Passengers Forecasting
-
 Problem Statement: Read and analyse the number of passengers travelling via a particular airline over the given period of time and implement statistical models like ARIMA and SARIMA to forecast the passengers count. Also, compare the both models's performance.
 
 ### Code Files Description:
